@@ -1,0 +1,525 @@
+,country,region,year,counts
+0,Argentina,Latin America,2017,16
+1,Argentina,Latin America,2018,16
+2,Argentina,Latin America,2019,15
+3,Argentina,Latin America,2020,15
+4,Argentina,Latin America,2021,21
+5,Argentina,Latin America,2022,24
+6,Armenia,Asia,2022,1
+7,Australia,Oceania,2017,35
+8,Australia,Oceania,2018,37
+9,Australia,Oceania,2019,37
+10,Australia,Oceania,2020,37
+11,Australia,Oceania,2021,36
+12,Australia,Oceania,2022,38
+13,Austria,Europe,2017,7
+14,Austria,Europe,2018,8
+15,Austria,Europe,2019,9
+16,Austria,Europe,2020,9
+17,Austria,Europe,2021,9
+18,Austria,Europe,2022,8
+19,Azerbaijan,Asia,2017,3
+20,Azerbaijan,Asia,2018,2
+21,Azerbaijan,Asia,2019,1
+22,Azerbaijan,Asia,2020,2
+23,Azerbaijan,Asia,2021,2
+24,Azerbaijan,Asia,2022,2
+25,Bahrain,Asia,2017,2
+26,Bahrain,Asia,2018,2
+27,Bahrain,Asia,2019,1
+28,Bahrain,Asia,2020,1
+29,Bahrain,Asia,2021,2
+30,Bahrain,Asia,2022,2
+31,Bangladesh,Asia,2017,1
+32,Bangladesh,Asia,2018,1
+33,Bangladesh,Asia,2019,2
+34,Bangladesh,Asia,2020,2
+35,Bangladesh,Asia,2021,2
+36,Bangladesh,Asia,2022,4
+37,Belarus,Europe,2017,2
+38,Belarus,Europe,2018,2
+39,Belarus,Europe,2019,2
+40,Belarus,Europe,2020,2
+41,Belarus,Europe,2021,3
+42,Belarus,Europe,2022,3
+43,Belgium,Europe,2017,8
+44,Belgium,Europe,2018,8
+45,Belgium,Europe,2019,8
+46,Belgium,Europe,2020,8
+47,Belgium,Europe,2021,9
+48,Belgium,Europe,2022,9
+49,Bolivia,Latin America,2021,2
+50,Bolivia,Latin America,2022,2
+51,Bosnia and Herzegovina,Europe,2019,1
+52,Bosnia and Herzegovina,Europe,2021,1
+53,Bosnia and Herzegovina,Europe,2022,1
+54,Brazil,Latin America,2017,22
+55,Brazil,Latin America,2018,22
+56,Brazil,Latin America,2019,22
+57,Brazil,Latin America,2020,20
+58,Brazil,Latin America,2021,22
+59,Brazil,Latin America,2022,27
+60,Brunei,Asia,2018,1
+61,Brunei,Asia,2019,2
+62,Brunei,Asia,2020,2
+63,Brunei,Asia,2021,2
+64,Brunei,Asia,2022,2
+65,Bulgaria,Europe,2017,1
+66,Bulgaria,Europe,2018,1
+67,Bulgaria,Europe,2019,1
+68,Bulgaria,Europe,2020,1
+69,Bulgaria,Europe,2021,1
+70,Bulgaria,Europe,2022,1
+71,Canada,North America,2017,26
+72,Canada,North America,2018,26
+73,Canada,North America,2019,26
+74,Canada,North America,2020,26
+75,Canada,North America,2021,26
+76,Canada,North America,2022,28
+77,Chile,Latin America,2017,11
+78,Chile,Latin America,2018,11
+79,Chile,Latin America,2019,11
+80,Chile,Latin America,2020,14
+81,Chile,Latin America,2021,18
+82,Chile,Latin America,2022,20
+83,China (Mainland),Asia,2017,33
+84,China (Mainland),Asia,2018,39
+85,China (Mainland),Asia,2019,40
+86,China (Mainland),Asia,2020,42
+87,China (Mainland),Asia,2021,51
+88,China (Mainland),Asia,2022,58
+89,Colombia,Latin America,2017,10
+90,Colombia,Latin America,2018,10
+91,Colombia,Latin America,2019,11
+92,Colombia,Latin America,2020,13
+93,Colombia,Latin America,2021,16
+94,Colombia,Latin America,2022,19
+95,Costa Rica,Latin America,2017,3
+96,Costa Rica,Latin America,2018,2
+97,Costa Rica,Latin America,2019,4
+98,Costa Rica,Latin America,2020,3
+99,Costa Rica,Latin America,2021,3
+100,Costa Rica,Latin America,2022,3
+101,Croatia,Europe,2017,1
+102,Croatia,Europe,2018,1
+103,Croatia,Europe,2019,1
+104,Croatia,Europe,2020,1
+105,Croatia,Europe,2021,3
+106,Croatia,Europe,2022,4
+107,Cuba,Latin America,2017,1
+108,Cuba,Latin America,2018,1
+109,Cuba,Latin America,2019,1
+110,Cuba,Latin America,2020,1
+111,Cuba,Latin America,2021,2
+112,Cuba,Latin America,2022,3
+113,Cyprus,Europe,2021,1
+114,Cyprus,Europe,2022,1
+115,Czech Republic,Europe,2017,6
+116,Czech Republic,Europe,2018,6
+117,Czech Republic,Europe,2019,6
+118,Czech Republic,Europe,2020,11
+119,Czech Republic,Europe,2021,14
+120,Czech Republic,Europe,2022,15
+121,Denmark,Europe,2017,6
+122,Denmark,Europe,2018,6
+123,Denmark,Europe,2019,6
+124,Denmark,Europe,2020,6
+125,Denmark,Europe,2021,6
+126,Denmark,Europe,2022,5
+127,Ecuador,Latin America,2017,2
+128,Ecuador,Latin America,2018,2
+129,Ecuador,Latin America,2019,3
+130,Ecuador,Latin America,2020,4
+131,Ecuador,Latin America,2021,6
+132,Ecuador,Latin America,2022,7
+133,Egypt,Africa,2017,5
+134,Egypt,Africa,2018,5
+135,Egypt,Africa,2019,6
+136,Egypt,Africa,2020,6
+137,Egypt,Africa,2021,9
+138,Egypt,Africa,2022,13
+139,Estonia,Europe,2017,2
+140,Estonia,Europe,2018,2
+141,Estonia,Europe,2019,3
+142,Estonia,Europe,2020,3
+143,Estonia,Europe,2021,3
+144,Estonia,Europe,2022,3
+145,Finland,Europe,2017,10
+146,Finland,Europe,2018,10
+147,Finland,Europe,2019,10
+148,Finland,Europe,2020,9
+149,Finland,Europe,2021,9
+150,Finland,Europe,2022,9
+151,France,Europe,2017,42
+152,France,Europe,2018,42
+153,France,Europe,2019,40
+154,France,Europe,2020,40
+155,France,Europe,2021,42
+156,France,Europe,2022,32
+157,Georgia,Asia,2021,1
+158,Georgia,Asia,2022,1
+159,Germany,Europe,2017,45
+160,Germany,Europe,2018,47
+161,Germany,Europe,2019,46
+162,Germany,Europe,2020,47
+163,Germany,Europe,2021,47
+164,Germany,Europe,2022,46
+165,Ghana,Africa,2017,1
+166,Ghana,Africa,2018,1
+167,Ghana,Africa,2021,1
+168,Ghana,Africa,2022,1
+169,Greece,Europe,2017,6
+170,Greece,Europe,2018,6
+171,Greece,Europe,2019,6
+172,Greece,Europe,2020,6
+173,Greece,Europe,2021,6
+174,Greece,Europe,2022,6
+175,Honduras,Latin America,2022,1
+176,Hong Kong SAR,Asia,2017,7
+177,Hong Kong SAR,Asia,2018,7
+178,Hong Kong SAR,Asia,2019,7
+179,Hong Kong SAR,Asia,2020,7
+180,Hong Kong SAR,Asia,2021,7
+181,Hong Kong SAR,Asia,2022,7
+182,Hungary,Europe,2017,6
+183,Hungary,Europe,2018,6
+184,Hungary,Europe,2019,6
+185,Hungary,Europe,2020,6
+186,Hungary,Europe,2021,8
+187,Hungary,Europe,2022,9
+188,India,Asia,2017,15
+189,India,Asia,2018,21
+190,India,Asia,2019,25
+191,India,Asia,2020,28
+192,India,Asia,2021,29
+193,India,Asia,2022,35
+194,Indonesia,Asia,2017,9
+195,Indonesia,Asia,2018,9
+196,Indonesia,Asia,2019,9
+197,Indonesia,Asia,2020,10
+198,Indonesia,Asia,2021,11
+199,Indonesia,Asia,2022,16
+200,"Iran, Islamic Republic of",Asia,2017,5
+201,"Iran, Islamic Republic of",Asia,2018,5
+202,"Iran, Islamic Republic of",Asia,2019,6
+203,"Iran, Islamic Republic of",Asia,2020,6
+204,"Iran, Islamic Republic of",Asia,2021,6
+205,"Iran, Islamic Republic of",Asia,2022,6
+206,Iraq,Asia,2017,2
+207,Iraq,Asia,2018,2
+208,Iraq,Asia,2019,4
+209,Iraq,Asia,2020,3
+210,Iraq,Asia,2021,5
+211,Iraq,Asia,2022,5
+212,Ireland,Europe,2017,8
+213,Ireland,Europe,2018,8
+214,Ireland,Europe,2019,8
+215,Ireland,Europe,2020,8
+216,Ireland,Europe,2021,8
+217,Ireland,Europe,2022,8
+218,Israel,Asia,2017,7
+219,Israel,Asia,2018,7
+220,Israel,Asia,2019,7
+221,Israel,Asia,2020,7
+222,Israel,Asia,2021,7
+223,Israel,Asia,2022,6
+224,Italy,Europe,2017,29
+225,Italy,Europe,2018,31
+226,Italy,Europe,2019,31
+227,Italy,Europe,2020,35
+228,Italy,Europe,2021,40
+229,Italy,Europe,2022,41
+230,Japan,Asia,2017,39
+231,Japan,Asia,2018,43
+232,Japan,Asia,2019,44
+233,Japan,Asia,2020,43
+234,Japan,Asia,2021,45
+235,Japan,Asia,2022,48
+236,Jordan,Asia,2017,2
+237,Jordan,Asia,2018,2
+238,Jordan,Asia,2019,3
+239,Jordan,Asia,2020,4
+240,Jordan,Asia,2021,6
+241,Jordan,Asia,2022,8
+242,Kazakhstan,Asia,2017,8
+243,Kazakhstan,Asia,2018,8
+244,Kazakhstan,Asia,2019,10
+245,Kazakhstan,Asia,2020,10
+246,Kazakhstan,Asia,2021,13
+247,Kazakhstan,Asia,2022,14
+248,Kenya,Africa,2017,1
+249,Kenya,Africa,2018,1
+250,Kenya,Africa,2019,1
+251,Kenya,Africa,2020,1
+252,Kenya,Africa,2021,1
+253,Kenya,Africa,2022,1
+254,Kuwait,Asia,2017,1
+255,Kuwait,Asia,2018,1
+256,Kuwait,Asia,2019,1
+257,Kuwait,Asia,2020,1
+258,Kuwait,Asia,2021,3
+259,Kuwait,Asia,2022,3
+260,Latvia,Europe,2017,1
+261,Latvia,Europe,2018,2
+262,Latvia,Europe,2019,3
+263,Latvia,Europe,2020,3
+264,Latvia,Europe,2021,3
+265,Latvia,Europe,2022,3
+266,Lebanon,Asia,2017,3
+267,Lebanon,Asia,2018,3
+268,Lebanon,Asia,2019,5
+269,Lebanon,Asia,2020,7
+270,Lebanon,Asia,2021,8
+271,Lebanon,Asia,2022,8
+272,Lithuania,Europe,2017,4
+273,Lithuania,Europe,2018,4
+274,Lithuania,Europe,2019,4
+275,Lithuania,Europe,2020,4
+276,Lithuania,Europe,2021,4
+277,Lithuania,Europe,2022,4
+278,Macau SAR,Asia,2017,1
+279,Macau SAR,Asia,2018,1
+280,Macau SAR,Asia,2019,1
+281,Macau SAR,Asia,2020,1
+282,Macau SAR,Asia,2021,2
+283,Macau SAR,Asia,2022,2
+284,Malaysia,Asia,2017,9
+285,Malaysia,Asia,2018,9
+286,Malaysia,Asia,2019,13
+287,Malaysia,Asia,2020,21
+288,Malaysia,Asia,2021,21
+289,Malaysia,Asia,2022,22
+290,Malta,Europe,2021,1
+291,Malta,Europe,2022,1
+292,Mexico,Latin America,2017,14
+293,Mexico,Latin America,2018,14
+294,Mexico,Latin America,2019,14
+295,Mexico,Latin America,2020,14
+296,Mexico,Latin America,2021,22
+297,Mexico,Latin America,2022,24
+298,Morocco,Africa,2018,1
+299,Morocco,Africa,2019,1
+300,Morocco,Africa,2021,1
+301,Morocco,Africa,2022,1
+302,Netherlands,Europe,2017,13
+303,Netherlands,Europe,2018,13
+304,Netherlands,Europe,2019,13
+305,Netherlands,Europe,2020,13
+306,Netherlands,Europe,2021,13
+307,Netherlands,Europe,2022,13
+308,New Zealand,Oceania,2017,8
+309,New Zealand,Oceania,2018,8
+310,New Zealand,Oceania,2019,8
+311,New Zealand,Oceania,2020,8
+312,New Zealand,Oceania,2021,8
+313,New Zealand,Oceania,2022,8
+314,Norway,Europe,2017,5
+315,Norway,Europe,2018,5
+316,Norway,Europe,2019,5
+317,Norway,Europe,2020,5
+318,Norway,Europe,2021,5
+319,Norway,Europe,2022,4
+320,Oman,Asia,2017,1
+321,Oman,Asia,2018,1
+322,Oman,Asia,2019,1
+323,Oman,Asia,2020,1
+324,Oman,Asia,2021,1
+325,Oman,Asia,2022,1
+326,Pakistan,Asia,2017,6
+327,Pakistan,Asia,2018,6
+328,Pakistan,Asia,2019,7
+329,Pakistan,Asia,2020,9
+330,Pakistan,Asia,2021,10
+331,Pakistan,Asia,2022,11
+332,"Palestinian Territory, Occupied",Asia,2018,1
+333,"Palestinian Territory, Occupied",Asia,2019,1
+334,"Palestinian Territory, Occupied",Asia,2021,2
+335,"Palestinian Territory, Occupied",Asia,2022,3
+336,Panama,Latin America,2019,1
+337,Panama,Latin America,2020,1
+338,Panama,Latin America,2021,2
+339,Panama,Latin America,2022,2
+340,Paraguay,Latin America,2020,1
+341,Paraguay,Latin America,2021,1
+342,Paraguay,Latin America,2022,1
+343,Peru,Latin America,2017,3
+344,Peru,Latin America,2018,3
+345,Peru,Latin America,2019,3
+346,Peru,Latin America,2020,4
+347,Peru,Latin America,2021,7
+348,Peru,Latin America,2022,8
+349,Philippines,Asia,2017,4
+350,Philippines,Asia,2018,4
+351,Philippines,Asia,2019,4
+352,Philippines,Asia,2020,4
+353,Philippines,Asia,2021,4
+354,Philippines,Asia,2022,4
+355,Poland,Europe,2017,6
+356,Poland,Europe,2018,9
+357,Poland,Europe,2019,14
+358,Poland,Europe,2020,16
+359,Poland,Europe,2021,17
+360,Poland,Europe,2022,19
+361,Portugal,Europe,2017,5
+362,Portugal,Europe,2018,7
+363,Portugal,Europe,2019,7
+364,Portugal,Europe,2020,7
+365,Portugal,Europe,2021,7
+366,Portugal,Europe,2022,7
+367,Puerto Rico,Latin America,2017,1
+368,Puerto Rico,Latin America,2018,1
+369,Puerto Rico,Latin America,2019,1
+370,Puerto Rico,Latin America,2020,1
+371,Puerto Rico,Latin America,2021,1
+372,Puerto Rico,Latin America,2022,1
+373,Qatar,Asia,2017,1
+374,Qatar,Asia,2018,1
+375,Qatar,Asia,2019,1
+376,Qatar,Asia,2020,1
+377,Qatar,Asia,2021,1
+378,Qatar,Asia,2022,1
+379,Romania,Europe,2017,4
+380,Romania,Europe,2018,4
+381,Romania,Europe,2019,5
+382,Romania,Europe,2020,5
+383,Romania,Europe,2021,7
+384,Romania,Europe,2022,11
+385,Russia,Europe,2017,22
+386,Russia,Europe,2018,24
+387,Russia,Europe,2019,27
+388,Russia,Europe,2020,25
+389,Russia,Europe,2021,32
+390,Russia,Europe,2022,48
+391,Saudi Arabia,Asia,2017,8
+392,Saudi Arabia,Asia,2018,8
+393,Saudi Arabia,Asia,2019,9
+394,Saudi Arabia,Asia,2020,10
+395,Saudi Arabia,Asia,2021,11
+396,Saudi Arabia,Asia,2022,14
+397,Serbia,Europe,2017,1
+398,Serbia,Europe,2018,1
+399,Serbia,Europe,2019,1
+400,Serbia,Europe,2020,1
+401,Serbia,Europe,2021,3
+402,Serbia,Europe,2022,4
+403,Singapore,Asia,2017,3
+404,Singapore,Asia,2018,3
+405,Singapore,Asia,2019,3
+406,Singapore,Asia,2020,3
+407,Singapore,Asia,2021,3
+408,Singapore,Asia,2022,3
+409,Slovakia,Europe,2017,1
+410,Slovakia,Europe,2018,1
+411,Slovakia,Europe,2019,3
+412,Slovakia,Europe,2020,3
+413,Slovakia,Europe,2021,4
+414,Slovakia,Europe,2022,6
+415,Slovenia,Europe,2017,2
+416,Slovenia,Europe,2018,2
+417,Slovenia,Europe,2019,2
+418,Slovenia,Europe,2020,2
+419,Slovenia,Europe,2021,2
+420,Slovenia,Europe,2022,2
+421,South Africa,Africa,2017,9
+422,South Africa,Africa,2018,9
+423,South Africa,Africa,2019,9
+424,South Africa,Africa,2020,9
+425,South Africa,Africa,2021,9
+426,South Africa,Africa,2022,9
+427,South Korea,Asia,2017,30
+428,South Korea,Asia,2018,30
+429,South Korea,Asia,2019,30
+430,South Korea,Asia,2020,30
+431,South Korea,Asia,2021,30
+432,South Korea,Asia,2022,39
+433,Spain,Europe,2017,21
+434,Spain,Europe,2018,23
+435,Spain,Europe,2019,25
+436,Spain,Europe,2020,28
+437,Spain,Europe,2021,29
+438,Spain,Europe,2022,29
+439,Sri Lanka,Asia,2017,1
+440,Sri Lanka,Asia,2018,1
+441,Sri Lanka,Asia,2019,1
+442,Sri Lanka,Asia,2020,2
+443,Sri Lanka,Asia,2021,2
+444,Sri Lanka,Asia,2022,2
+445,Sudan,Africa,2022,2
+446,Sweden,Europe,2017,10
+447,Sweden,Europe,2018,10
+448,Sweden,Europe,2019,10
+449,Sweden,Europe,2020,10
+450,Sweden,Europe,2021,10
+451,Sweden,Europe,2022,8
+452,Switzerland,Europe,2017,8
+453,Switzerland,Europe,2018,9
+454,Switzerland,Europe,2019,9
+455,Switzerland,Europe,2020,9
+456,Switzerland,Europe,2021,10
+457,Switzerland,Europe,2022,10
+458,Syrian Arab Republic,Asia,2021,1
+459,Syrian Arab Republic,Asia,2022,1
+460,Taiwan,Asia,2017,15
+461,Taiwan,Asia,2018,16
+462,Taiwan,Asia,2019,17
+463,Taiwan,Asia,2020,19
+464,Taiwan,Asia,2021,23
+465,Taiwan,Asia,2022,25
+466,Thailand,Asia,2017,8
+467,Thailand,Asia,2018,8
+468,Thailand,Asia,2019,8
+469,Thailand,Asia,2020,9
+470,Thailand,Asia,2021,10
+471,Thailand,Asia,2022,10
+472,Tunisia,Africa,2022,3
+473,Turkey,Asia,2017,11
+474,Turkey,Asia,2018,11
+475,Turkey,Asia,2019,10
+476,Turkey,Asia,2020,9
+477,Turkey,Asia,2021,14
+478,Turkey,Asia,2022,21
+479,Uganda,Africa,2017,1
+480,Uganda,Africa,2018,1
+481,Uganda,Africa,2020,1
+482,Uganda,Africa,2021,1
+483,Uganda,Africa,2022,1
+484,Ukraine,Europe,2017,6
+485,Ukraine,Europe,2018,6
+486,Ukraine,Europe,2019,6
+487,Ukraine,Europe,2020,7
+488,Ukraine,Europe,2021,7
+489,Ukraine,Europe,2022,8
+490,United Arab Emirates,Asia,2017,6
+491,United Arab Emirates,Asia,2018,6
+492,United Arab Emirates,Asia,2019,8
+493,United Arab Emirates,Asia,2020,8
+494,United Arab Emirates,Asia,2021,8
+495,United Arab Emirates,Asia,2022,10
+496,United Kingdom,Europe,2017,73
+497,United Kingdom,Europe,2018,78
+498,United Kingdom,Europe,2019,78
+499,United Kingdom,Europe,2020,88
+500,United Kingdom,Europe,2021,90
+501,United Kingdom,Europe,2022,90
+502,United States,North America,2017,155
+503,United States,North America,2018,158
+504,United States,North America,2019,158
+505,United States,North America,2020,160
+506,United States,North America,2021,160
+507,United States,North America,2022,177
+508,Uruguay,Latin America,2017,2
+509,Uruguay,Latin America,2018,2
+510,Uruguay,Latin America,2019,2
+511,Uruguay,Latin America,2020,2
+512,Uruguay,Latin America,2021,4
+513,Uruguay,Latin America,2022,4
+514,Venezuela,Latin America,2017,5
+515,Venezuela,Latin America,2018,5
+516,Venezuela,Latin America,2019,5
+517,Venezuela,Latin America,2020,5
+518,Venezuela,Latin America,2021,5
+519,Venezuela,Latin America,2022,5
+520,Vietnam,Asia,2019,2
+521,Vietnam,Asia,2020,3
+522,Vietnam,Asia,2021,4
+523,Vietnam,Asia,2022,4
